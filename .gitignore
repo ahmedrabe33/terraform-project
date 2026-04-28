@@ -1,0 +1,5 @@
+.terraform/
+terraform.tfvars
+my-terr-key.pem
+server_ips.txt
+.terraform.lock.hcl
