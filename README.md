@@ -119,3 +119,10 @@ Run these commands from the repo root:
 - Push: git push origin feature/<feature-name>
 
 - Open a Pull Request and tag a reviewer
+
+👨‍💻 Author
+Ahmed Rabie Wageh
+
+DevOps Engineer | AWS • Terraform • Ansible • Kubernetes
+
+📌 Based on an open-source Terraform project, customized and documented by me.
